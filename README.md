@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/df172393-0ecd-42a1-9482-229cc459ef4c)![image](https://github.com/user-attachments/assets/c053b6fa-428f-4211-b740-fac6388990a3)# Open Library Project
+# Open Library Project
 
 >Ferramentas utilizadas na criação do Banco de dados: <br>
 >      <img src="https://hermes.dio.me/articles/cover/cea2ba01-236f-4194-814c-e8651bf1be44.png" width="140px" height="80px" /> <img src="https://miro.medium.com/v2/resize:fit:512/0*ioDeujW3euLCfXew.png" width="130px" height="80px" />
