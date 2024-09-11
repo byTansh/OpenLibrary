@@ -1,7 +1,7 @@
 # Open Library Project
 
 >Ferramentas utilizadas na criação do Banco de dados: <br>
->      <img src="https://hermes.dio.me/articles/cover/cea2ba01-236f-4194-814c-e8651bf1be44.png" width="140px" height="80px" /> <img src="https://w1.pngwing.com/pngs/340/348/png-transparent-postgresql-logo-psql-blue-text-line-area.png" width="130px" height="80px" />
+>      <img src="https://hermes.dio.me/articles/cover/cea2ba01-236f-4194-814c-e8651bf1be44.png" width="140px" height="80px" /> <img src="https://www.clipartmax.com/png/middle/242-2423721_logo-postgresql.png" width="130px" height="80px" />
 >
 >Linguagens utilizadas na criação do Banco de dados: <br>
        <img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="110px" width="100px" height="90px" />
