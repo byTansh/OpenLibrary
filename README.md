@@ -11,6 +11,6 @@
 > <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png?f=webp" width="110px" height="90px" />
 > <img src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" width="80px" height="80px" />
 > <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" width="80px" height="80px" />
-> <img src="https://miro.medium.com/v2/resize:fit:475/1*yludgK8sb_ZzGAffyKk3AQ.png" width="110px" height="80px" />
+> <img src="https://miro.medium.com/v2/resize:fit:475/1*yludgK8sb_ZzGAffyKk3AQ.png" width="130px" height="80px" />
 
 <p>Colaboradores:</p>
