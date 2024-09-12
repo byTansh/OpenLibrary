@@ -10,12 +10,6 @@
 > <img src="https://seeklogo.com/images/J/jetbrains-intellij-idea-logo-CA1D5DC51F-seeklogo.com.png" width="80px" height="80px" />
 > <img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" width="130px" height="90px" />
 > <img src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" width="80px" height="80px" />
-
->Ferramentas utilizadas na criação do Front-end: <br>
->      <img src="https://seeklogo.com/images/J/jetbrains-intellij-idea-logo-CA1D5DC51F-seeklogo.com.png" width="80px" height="80px" />
->
->Linguagens utilizadas na criação do Front-end: <br>
-       <img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="110px" width="100px" height="90px" />
-<br>
+> <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" width="80px" height="80px" />
 
 <p>Colaboradores:</p>
