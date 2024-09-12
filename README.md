@@ -1,6 +1,6 @@
 # Open Library Project
 
->Banco de dados utilizado: <br>
+> <p>Banco de dados utilizado:</p>> <br>
 >      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="90px" height="80px" />
 <br>
 
