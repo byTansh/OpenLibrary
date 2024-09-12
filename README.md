@@ -21,4 +21,4 @@
        <img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="110px" width="100px" height="90px" />
 <br>
 
-Colaboradores:
+<p>Colaboradores:</p>
