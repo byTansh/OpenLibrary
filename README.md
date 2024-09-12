@@ -1,7 +1,7 @@
 # Open Library Project
 
 >Banco de dados utilizado: <br>
->      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="140px" height="80px" />
+>      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width="100px" height="80px" />
 <br>
 
 >Ferramentas utilizadas na criação do Back-end: <br>
