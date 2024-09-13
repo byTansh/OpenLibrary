@@ -23,5 +23,5 @@
 
 <h4>Colaboradores:</h4>
 
-><p>   Pablo Henrique Silva de Souza: <a href="https://www.linkedin.com/in/pablo-henrique-582109322/" target="_blank"></a><p/>
+><p>   Pablo Henrique Silva de Souza: <a href="https://www.linkedin.com/in/pablo-henrique-582109322/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p/>
 ><p>   Paulo Eduardo de Oliveira Moura: <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACu26rUBcHxhaiYJ_2CI7EOS6nRD9VOfLQc&keywords=gabriela%20costa%20gon%C3%A7alves&origin=RICH_QUERY_SUGGESTION&position=1&searchId=74d890f0-a1e6-41cb-9709-699fd27863f2&sid=DQD&spellCorrectionEnabled=false" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p/>
