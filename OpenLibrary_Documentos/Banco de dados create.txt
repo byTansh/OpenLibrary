@@ -1,0 +1,19 @@
+CREATE TABLE Usuario ( 
+ ID INT PRIMARY KEY,  
+ nome VARCHAR(100),  
+ email VARCHAR(100),  
+ senha VARCHAR(25),  
+); 
+
+CREATE TABLE Conteudo ( 
+ ID INT PRIMARY KEY,  
+ titulo VARCHAR(60),  
+ lancamento VARCHAR(10),  
+ descricao VARCHAR(500),  
+ usuario INT,  
+ imagem tect,  
+ tipo VARCHAR(30),  
+ usuario_conteudo_fk INT,  
+); 
+
+ALTER TABLE Conteudo ADD FOREIGN KEY(usuario_conteudo_fk) REFERENCES Usuario (usuario_conteudo_fk)
