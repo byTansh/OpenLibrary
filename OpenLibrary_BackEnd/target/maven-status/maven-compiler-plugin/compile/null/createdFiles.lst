@@ -1,0 +1,6 @@
+br\senac\dao\UsuarioDAO.class
+br\senac\dao\ConteudoDAO.class
+br\senac\service\ConteudoService.class
+br\senac\dto\ConteudoDTO.class
+br\senac\dto\UsuarioDTO.class
+br\senac\resource\ConteudoResource.class
