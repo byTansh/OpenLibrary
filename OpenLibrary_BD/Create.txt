@@ -1,19 +1,21 @@
-CREATE TABLE Usuario ( 
- ID INT PRIMARY KEY,  
- nome VARCHAR(100),  
- email VARCHAR(100),  
- senha VARCHAR(25),  
-); 
-
-CREATE TABLE Conteudo ( 
- ID INT PRIMARY KEY,  
- titulo VARCHAR(60),  
- lancamento VARCHAR(10),  
- descricao VARCHAR(500),  
- usuario INT,  
- imagem tect,  
- tipo VARCHAR(30),  
- usuario_conteudo_fk INT,  
-); 
-
-ALTER TABLE Conteudo ADD FOREIGN KEY(usuario_conteudo_fk) REFERENCES Usuario (usuario_conteudo_fk)
+Create table conteudo (
+ ID int primary key,
+ usuario varchar(100),
+ titulo varchar(80),
+ lancamento varchar(10),
+ descricao varchar(700),
+ imagem text,
+ tipo varchar(40),
+ fk_usuario int
+ );
+ 
+ Create table usuario (
+ ID int primary key,
+ nome varchar(100),
+ email varchar(50),
+ senha varchar(30),
+ fk_conteudo int
+ );
+ 
+ Alter table usuario add constraint fk_conteudo foreign key (fk_conteudo) references conteudo (ID);
+ Alter table conteudo add constraint fk_usuario foreign key (fk_usuario) references usuario (ID);
